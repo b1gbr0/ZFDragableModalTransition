@@ -1,5 +1,9 @@
 # ZFDragableModalTransition CHANGELOG
 
+## 0.7.0
+
+- Added SPM support
+
 ## 0.6
 
 - fix #50 In-call status bar animation make the dismissing end up in wrong scale
